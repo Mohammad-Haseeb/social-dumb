@@ -1,0 +1,44 @@
+const data =[
+    {
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        name:"Haseeb",
+    },
+    {
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        name:"Haseeb",
+    },
+    {
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        name:"Haseeb",
+    },
+    {
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        name:"Haseeb",
+    },
+    {
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        name:"Haseeb",
+    },
+    {
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        name:"Haseeb",
+    },
+    {
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        name:"Haseeb",
+    },
+    {
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        name:"Haseeb",
+    },
+    {
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        name:"Haseeb",
+    },
+    {
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        name:"Hamza",
+    }
+]
+
+export default data;

@@ -45,7 +45,6 @@ function Header() {
 
 const styles = StyleSheet.create({
   mainHeader: {
-    flex: 1,
     paddingHorizontal: 4,
     flexDirection: 'row',
     justifyContent: 'space-between',

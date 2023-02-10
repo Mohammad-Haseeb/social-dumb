@@ -1,15 +1,14 @@
-// import React from "react";
-import {SafeAreaView, StyleSheet, Text} from 'react-native';
+import React from 'react';
 import Header from '../components/home/header';
-
+import {View, StyleSheet, SafeAreaView} from 'react-native';
+import Stories from '../components/home/stories';
 function HomeScreen() {
-  return <Header />;
+  return (
+    <View>
+      <Header />
+      <Stories />
+    </View>
+  );
 }
-
-const styles = StyleSheet.create({
-  backgroundStyle: {
-    flex: 1,
-  },
-});
 
 export default HomeScreen;
