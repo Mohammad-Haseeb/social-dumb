@@ -7,7 +7,7 @@ function Header() {
       <TouchableOpacity onPress={() => console.log('logo')}>
         <Image
           style={styles.logo}
-          source={require('./../../assets/header-logo.png')}
+          source={require('./../../assets/header-logo.png')} 
         />
       </TouchableOpacity>
       <View style={styles.mainHeaderIconSection}>
@@ -62,6 +62,7 @@ const styles = StyleSheet.create({
     width: 30,
     height: 30,
     marginLeft: 10,
+    marginRight:5,
     marginTop: 8,
   },
   messageNotificationNumber: {
@@ -76,6 +77,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     zIndex: 10,
+    // marginLeft: 1,
   },
 });
 

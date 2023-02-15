@@ -1,42 +1,42 @@
 const data =[
     {
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        image:'https://avatars.githubusercontent.com/u/64950545?v=4',
         name:"Haseeb",
     },
     {
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        image:'https://avatars.githubusercontent.com/u/64950545?v=4',
         name:"Haseeb",
     },
     {
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        image:'https://avatars.githubusercontent.com/u/64950545?v=4',
         name:"Haseeb",
     },
     {
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        image:'https://avatars.githubusercontent.com/u/64950545?v=4',
         name:"Haseeb",
     },
     {
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        image:'https://avatars.githubusercontent.com/u/64950545?v=4',
         name:"Haseeb",
     },
     {
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        image:'https://avatars.githubusercontent.com/u/64950545?v=4',
         name:"Haseeb",
     },
     {
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        image:'https://avatars.githubusercontent.com/u/64950545?v=4',
         name:"Haseeb",
     },
     {
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        image:'https://avatars.githubusercontent.com/u/64950545?v=4',
         name:"Haseeb",
     },
     {
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        image:'https://avatars.githubusercontent.com/u/64950545?v=4',
         name:"Haseeb",
     },
     {
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtWt_QAaADpvjD-2YzKxKG33uXnrziUzaOQ&usqp=CAU',
+        image:'https://avatars.githubusercontent.com/u/64950545?v=4',
         name:"Hamza",
     }
 ]
